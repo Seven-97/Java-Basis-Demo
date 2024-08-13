@@ -12,6 +12,9 @@
     <modules>
 
         <module>01-java-basis</module>
+        <module>04-java-io</module>
+        <module>04-java-io/01-bio</module>
+        <module>04-java-io/02-nio</module>
     </modules>
 
 

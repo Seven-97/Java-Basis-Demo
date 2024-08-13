@@ -26,6 +26,5 @@ public class IntegerTest {
         System.out.println(Integer.valueOf(127) == Integer.valueOf(127));//2.true
         System.out.println(Integer.valueOf(128) == Integer.valueOf(128));//3.false
         System.out.println(Integer.parseInt("128") == Integer.valueOf(128));//4.true
-
     }
 }

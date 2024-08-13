@@ -6,6 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="01-bio" />
+        <module name="04-java-io" />
+        <module name="02-nio" />
         <module name="01-java-basis" />
       </profile>
     </annotationProcessing>
