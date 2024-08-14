@@ -1,4 +1,4 @@
-package com.seven.javabasis.basicknowledge;
+package com.seven.javabasis.basicknowledge.integertest;
 
 import org.junit.jupiter.api.Test;
 
